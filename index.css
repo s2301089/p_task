@@ -12,6 +12,10 @@ html{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+hr{
+    color: #777777;
+}
+
 a{
     text-decoration: underline;
     color: #777777;
