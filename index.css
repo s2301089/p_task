@@ -14,11 +14,13 @@ html{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-body{
-    padding-left: 2em;
-    padding-right: 2em;
-}
-
 ul{
     padding-left: 2em;
+    a{
+        text-decoration: underline;
+        color: #777777;
+    }
+    a:hover{
+        text-decoration: none;
+    }
 }
