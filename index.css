@@ -1,6 +1,6 @@
 *{
-    margin: 0;
-    padding: 0;
+    /* margin: 0; */
+    /* padding: 0; */
     border: 0;
     overflow-wrap: anywhere;
     white-space: pre-warp;
@@ -14,9 +14,9 @@ html{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-body{
+/* body{
     margin: 20;
-}
+} */
 
 a{
     text-decoration: underline;
