@@ -13,3 +13,8 @@ html{
     scroll-behavior:smooth;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+body{
+    padding-left: 20px;
+    padding-right: 20px;
+}
