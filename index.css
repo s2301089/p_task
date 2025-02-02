@@ -3,7 +3,6 @@
     padding: 0;
     border: 0;
     overflow-wrap: anywhere;
-    font-size: 20px;
     white-space: pre-warp;
 }
 
@@ -13,28 +12,4 @@ html{
     overflow: scroll;
     scroll-behavior:smooth;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-
-body{
-    background-color: #ffffff;
-}
-
-.readme{
-    padding-top: 4.5em;
-    padding-left: 2.5em;
-    padding-right: 2.5em;
-    margin-bottom: -3.5em;
-    p{
-        font-size: 1.25em;
-    }
-    a{
-        font-size: 0.85em;
-        color: #777777;
-        text-decoration: dashed;
-        text-decoration-line: underline;
-    }
-    a:hover{
-        text-decoration: underline;
-        text-decoration-line: underline;
-    }
 }
