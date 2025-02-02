@@ -14,9 +14,13 @@ html{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-ul{
+body{
     margin-left: 2em;
 }
+
+/* ul{
+    margin-left: 2em;
+} */
 
 a{
     text-decoration: underline;
