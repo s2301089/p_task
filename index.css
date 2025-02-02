@@ -15,6 +15,10 @@ html{
 }
 
 body{
-    padding-left: 20;
-    padding-right: 20;
+    padding-left: 2em;
+    padding-right: 2em;
+}
+
+li{
+    padding-left: 2em;
 }
