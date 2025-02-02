@@ -15,7 +15,13 @@ html{
 }
 
 h1{
-    text-align: center;    
+    text-align: center;
+    margin-bottom: 0.25em;
+    margin-top: 0.25em;
+}
+
+h2{
+    font-weight: normal;
 }
 
 hr{
@@ -25,7 +31,12 @@ hr{
 
 ul{
     padding-top: 1em;
-    padding-left: 3em;
+    padding-left: 2.5em;
+}
+
+li{
+    list-style-type: none;
+    text-align: center;
 }
 
 a{
